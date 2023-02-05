@@ -6,7 +6,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisfbarreto&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisfbarreto&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## Tecnologias que uso no meu dia
+
+## Tecnologias que uso no meu dia <div><img align="right" alt="Luis-ico" height="200" width="200" src="https://github.com/luisfbarreto/luisfbarreto/blob/main/Githubicon.png"/></div>
 
 <div style="display: inline-block"><br>
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
