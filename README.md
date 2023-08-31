@@ -10,8 +10,6 @@
 
   <h2 align="center">Studying in this moment:</h2>
  <div style="display: inline_block" align="center"><br>
- <img align="center" alt"Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
- <img align="center" alt"JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
  <img align="center" alt"Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black"/>
  <img align="center" alt"Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
  </div>
