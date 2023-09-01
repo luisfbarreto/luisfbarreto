@@ -12,6 +12,8 @@
  <div style="display: inline_block" align="center"><br>
  <img align="center" alt"Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black"/>
  <img align="center" alt"Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+ <img align="center" alt"Git" src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5FC"/>
+  <img align="center" alt"GitHub" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC"/>
  </div>
 
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luisfbarreto&bg_color=0d1117&color=39b519&line=39b519&point=39b519&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
